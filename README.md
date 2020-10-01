@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live demo of Google-Clone is here...
 
-clone-7a9a3.web.app/
+https://clone-7a9a3.web.app/
 
 ## Available Scripts
 
