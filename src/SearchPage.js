@@ -53,6 +53,15 @@ function SearchPage() {
                 <ImageIcon />
                 <Link to="/images">Images</Link>
               </div>
+              <ImageIcon />
+                <Link to="/images">Images</Link>
+              </div>
+              <ImageIcon />
+                <Link to="/images">Images</Link>
+              </div>
+              <ImageIcon />
+                <Link to="/images">Images</Link>
+              </div>
               <div className="searchPage_option">
                 <LocalOfferIcon />
                 <Link to="/shopping">Shopping</Link>
